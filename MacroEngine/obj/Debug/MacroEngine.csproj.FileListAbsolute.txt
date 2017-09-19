@@ -1,0 +1,6 @@
+C:\Users\GERCOG\Desktop\MacroEngine\MacroEngine\MacroEngine\bin\Debug\MacroEngine.exe.config
+C:\Users\GERCOG\Desktop\MacroEngine\MacroEngine\MacroEngine\bin\Debug\MacroEngine.exe
+C:\Users\GERCOG\Desktop\MacroEngine\MacroEngine\MacroEngine\bin\Debug\MacroEngine.pdb
+C:\Users\GERCOG\Desktop\MacroEngine\MacroEngine\MacroEngine\obj\Debug\MacroEngine.csprojResolveAssemblyReference.cache
+C:\Users\GERCOG\Desktop\MacroEngine\MacroEngine\MacroEngine\obj\Debug\MacroEngine.exe
+C:\Users\GERCOG\Desktop\MacroEngine\MacroEngine\MacroEngine\obj\Debug\MacroEngine.pdb

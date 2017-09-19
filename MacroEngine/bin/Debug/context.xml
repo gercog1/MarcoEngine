@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+  <User>
+    <FirstName>Ivan</FirstName>
+    <LastName>Kobzar</LastName>
+    <RegistrationLink>https://someHost/registration?username=User1</RegistrationLink>
+    <VerifiedEmail>true</VerifiedEmail>
+    <Order>
+      <Date>2017-03-22T16:00:00.000Z</Date>
+      <Total>1162.20</Total>
+      <AlreadyPaid>false</AlreadyPaid>
+      <OrderItemsList>
+        <Item>
+          <Name>Tool 1</Name>
+          <Category>GOODS_1</Category>
+          <ImagePath>http://someHost.com/img1.png</ImagePath>
+          <Count>1</Count>
+          <Price>572.20</Price>
+        </Item>
+        <Item>
+          <Name>Tool 2</Name>
+          <Category>GOODS_2</Category>
+          <ImagePath>http://someHost.com/img2.png</ImagePath>
+          <Count>12</Count>
+          <Price>48.0</Price>
+        </Item>
+        <Item>
+          <Name>Tool 3</Name>
+          <Category>GOODS_3</Category>
+          <ImagePath>http://someHost.com/img3.png</ImagePath>
+          <Count>2</Count>
+          <Price>7.0</Price>
+        </Item>
+      </OrderItemsList>
+    </Order>
+  </User>
+  <MaxLoginAttempts>5</MaxLoginAttempts>
+  <AdminEmail>admin@super-spamer.com</AdminEmail>
+  <AdminName>Anant Shiva</AdminName>
+</Data>
+
